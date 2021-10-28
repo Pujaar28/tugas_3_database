@@ -1,0 +1,9 @@
+1.kepanjangan dari XAMPP adalah X APACHE MYSQL PHP PERL
+2.cara nya dengan membuka tempat kita menginstall xampp tadi misal C:\xampp setelah 
+itu buka xampp-control.exe
+3.pada aplikasi xampp-control.exe kita memilih modul MYSQL
+4.setelah membuka browser pada search bar ketik http://localhost:8080/phpmyadmin 
+punya saya ada 8080 karena menggunakan port atau ketik http://localhost, setelah 
+muncul halamannya pada main menu click phpmyadmin
+5.buka cmd run as admin lalu ketik 
+c:\xampp\mysql\bin\mysql -u root
